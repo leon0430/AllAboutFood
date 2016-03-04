@@ -1,0 +1,124 @@
+@font-face {
+	font-family: inknut;
+	src: url("../font/inknut-antiqua/InknutAntiqua-Regular.ttf");
+}
+@font-face {
+	font-family: kaushan;
+	src: url("../font/kaushan-script/KaushanScript-Regular.otf");
+}
+
+body {
+	background-color: #F5F6CE;
+	background-image: url(http://news.nationalgeographic.com/content/dam/news/photos/000/786/78625.ngsversion.1422285259310.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+	margin: 0
+}
+
+h1 {
+	font-family:kaushan;
+	color: #A9F5BC;
+	text-align: center;
+	font-size: 2.5em;
+	background-color: #0099cc;
+	/*background-image: url(http://files.shandymedia.com/styles/page/s3/images/photos/thesavory/p18vo0poom91u1k4g16f31v4p19uq4.png); */
+	padding: 2%;
+	text-shadow: 2px 2px orange;
+	margin-bottom: 0;
+
+}
+
+h2 {
+	color: #F5F6CE;
+	font-family: kaushan;
+	text-shadow: 2px 2px orange;
+	margin-left: 5%;
+	font-size: 3em;
+	margin-bottom: 5px;
+}
+
+h3 {
+	color: #F5F6CE;
+	font-family: kaushan;
+	text-shadow: 2px 2px blue;
+	font-size: 2em;
+ 	}
+
+p {
+	font-family: inknut;
+	color: white;
+	text-shadow: 2px 2px green;
+	margin-top: 5px;
+}
+ul {
+	list-style-type: none;
+	text-align: center;
+	background-color: #FA5858;
+	padding: 0;
+	margin: 0;
+}
+li {
+	color: #F5F6CE;
+	font-family: inknut;
+	font-size: 0.75em;
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+	width: 15%;
+	background-color: #FA5858;
+	margin-top: 0;
+	padding: 0;
+}
+
+li:hover {
+	color: white;
+}
+
+img {
+	padding: 2%;
+	border: 1px solid white;
+	width: 30%;
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #FA5858;
+	width: 90%;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-top: 0%;
+	margin-left: 5%;
+}
+.dropdown-content a {
+	background-color: #FA5858;
+	color: #F5F6CE;
+	padding: 10px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: white;
+}
+
+.dropdown {
+	position: relative;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+
+
+
+
+
+
+
+
+
