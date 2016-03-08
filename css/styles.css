@@ -49,6 +49,9 @@ p {
 	color: white;
 	text-shadow: 2px 2px green;
 	margin-top: 5px;
+	margin-left: 35%;
+	padding-top: 3%;
+	padding-bottom: 3%;
 }
 ul {
 	list-style-type: none;
