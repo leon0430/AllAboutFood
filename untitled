@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>All About Food!</title>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+<h1><ul>
+	<a href="index.html">All About Food!</a>
+</ul></h1>
+
+<h2>Contact Me</h2>
+<img src="http://hara.kim/wp-content/uploads/2015/10/Contact-Me-Final-Banner-copy.png" style="float:left">
+<p>If you want to conatct me about this website and its content please email me.
+leonshi@stmarksschool.org</p>
+
+</body>
+</html>
